@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_manuallycreateuserobject.security;
+package com.ivoronline.springboot_manuallycreateuserobject.services;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

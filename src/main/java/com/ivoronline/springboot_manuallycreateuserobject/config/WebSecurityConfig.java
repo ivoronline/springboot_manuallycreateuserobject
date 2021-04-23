@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_manuallycreateuserobject.security;
+package com.ivoronline.springboot_manuallycreateuserobject.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
